@@ -1,0 +1,14 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "하보석",
+            "email": "iooe9094@naver.com"
+        },
+        {
+            "id": 2,
+            "name": "김창수",
+            "email": "cskim@yahoo.com"
+        }
+    ]
+}
